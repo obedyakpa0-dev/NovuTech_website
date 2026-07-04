@@ -31,9 +31,9 @@ const STATS = [
   },
   {
     icon: Layers,
-    value: "2",
+    value: "1",
     label: "Live Projects",
-    note: "SkillSwap · Acadex",
+    note: "Acadex",
   },
   {
     icon: Moon,
