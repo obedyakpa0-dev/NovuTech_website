@@ -12,7 +12,7 @@ const NAV_LINKS = [
 // Placeholder socials — swap hrefs for real URLs later
 const SOCIALS = [
   { icon: Github,   label: "GitHub",   href: "https://github.com/Rosieeee344/NovuTech_website" },
-  { icon: Twitter,  label: "Twitter",  href: "https://x.com/dwamen1dwamena?s=11" },
+  { icon: Twitter,  label: "Twitter",  href: "https://x.com/NovuTechHQ" },
   { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/company/novutech-hq" },
 ];
 

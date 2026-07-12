@@ -40,7 +40,7 @@ const CHANNELS = [
     icon: Twitter,
     label: "Twitter / X",
     value: "@novutech",
-    href: "https://x.com/dwamen1dwamena?s=11",
+    href: "https://x.com/NovuTechHQ",
   },
   {
     icon: Linkedin,
