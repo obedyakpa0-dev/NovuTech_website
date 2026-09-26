@@ -1,330 +1,278 @@
-# RoreDevs SEO Plan
+# RoreDevs SEO Plan & Status
 
-## Our Products
+## Our Projects
 
-- Acadex
-- Seemul
+- **Acadex** — Academic management & student attendance tracking system
+- **Seemul** — Peer-to-peer learning & skill-sharing platform
 
-## What We Build for Clients
+## What We Build
 
-- Custom web applications
-- Educational platforms
-- Academic management systems
-- Peer-learning platforms
-- MVPs and prototypes
-- Frontend, backend, and UI development
+- Open-source web applications & educational software
+- Practical developer tools and community projects
+- Student-led digital products and prototypes
+- Full-stack React & Node.js web applications
 
-## Target Customers
+## Target Audience & Community
 
-- Schools and universities
-- Startups
-- Small businesses
+- Student developers & tech enthusiasts looking to build real-world software
+- Open-source contributors & project collaborators
+- Educational institutions, educators, and students
+- Tech sponsors, partners, and recruiters supporting tech talent
 
 ## Main Positioning
 
-RoreDevs builds custom web applications, educational platforms, and digital products for startups, schools, and organizations.
+RoreDevs is a student-led developer community building open-source, high-impact web software, empowering the next generation of tech talent through practical projects like Acadex and Seemul.
 
 ## Keyword Map
 
-### Home
+### Home (`/`)
 
-**Main keyword:** Custom web application development
-
-**Supporting keywords:**
-
-- Custom software development
-- Web app development team
-- Digital product development
-- Educational platform development
-- Frontend and backend development
-
-**Search intent:**  
-People looking for a team to design and build a custom web application or digital product.
-
-### About
-
-**Main keyword:** Software development team
+**Main keyword:** Student developer community & open source software
 
 **Supporting keywords:**
 
 - Student software development team
-- Product development team
-- Web development company
-- Full-stack development team
-- Digital product team
+- Open source web application development
+- Learn web development building real projects
+- Student technology community
+- React open source projects
 
 **Search intent:**  
-People who want to understand RoreDevs's experience, team, values, and development approach.
+People looking for a vibrant student developer community building open-source web applications and software projects.
 
-### Projects
+### About (`/about`)
 
-**Main keyword:** Web application projects
+**Main keyword:** Student software development community
 
 **Supporting keywords:**
 
-- Academic management system
-- Educational technology project
-- Peer-to-peer learning platform
-- Custom web platform
-- Digital product portfolio
+- Open source student developers
+- Software community mission
+- Peer-led tech community
+- Student developer studio
+- Building software in the open
 
 **Search intent:**  
-People researching examples of web applications and digital platforms built by RoreDevs.
+People who want to understand RoreDevs's mission, team values, and collaborative open-source approach.
 
-### Contact
+### Team (`/team`)
 
-**Main keyword:** Hire web application developers
+**Main keyword:** RoreDevs developers and contributors
 
 **Supporting keywords:**
 
-- Custom web development team
-- Hire software developers
-- Build a custom web application
-- Web application development services
-- Contact web developers
+- Student software engineers
+- Open source project maintainers
+- Meet the RoreDevs team
+- Tech community builders
+- Student project leaders
 
 **Search intent:**  
-People interested in discussing a software project or working with RoreDevs.
+People looking to meet the developers, designers, and project leaders behind RoreDevs.
 
-### Acadex
+### Projects (`/projects`)
 
-**Main keyword:** Academic management system
+**Main keyword:** Open source software projects
 
 **Supporting keywords:**
 
-- Student attendance tracking system
-- Digital attendance platform
-- Student dashboard
-- Lecture material management
-- Assignment management system
+- Acadex academic management system
+- Seemul peer to peer learning platform
+- Student-built web applications
+- Open source portfolio
+- Educational software projects
 
 **Search intent:**  
-Schools, lecturers, administrators, or students looking for tools to manage academic activities.
+People researching open-source web platforms and software built by RoreDevs developers.
 
-### Seemul
+### Contact (`/contact`)
 
-**Main keyword:** Peer-to-peer learning platform
+**Main keyword:** Contact RoreDevs community
 
 **Supporting keywords:**
 
-- Skill-sharing platform
-- Online mentorship platform
-- Student learning community
-- Knowledge-sharing platform
-- Peer learning application
+- Collaborate with student developers
+- Sponsor open source software
+- Join RoreDevs community
+- Partner with tech students
+- Contact RoreDevs team
 
 **Search intent:**  
-People looking for a platform that connects learners, mentors, and people who want to exchange skills.
+People interested in collaborating with, sponsoring, or joining the RoreDevs developer community.
 
-## Meta Descriptions
+## Active Page Titles (Implemented)
 
-### Home
+### Home (`/`)
 
-RoreDevs builds custom web applications, educational platforms, and digital products for startups, schools, and organizations.
+`RoreDevs | Student Developers Building in the Open`
 
-### About
+### About (`/about`)
 
-Meet RoreDevs, a student software development team building practical web applications and digital products for real-world users.
+`About RoreDevs | Student Software Development Community`
 
-### Projects
+### Team (`/team`)
 
-Explore RoreDevs web application projects, including Acadex, an academic management system, and Seemul, a peer-learning platform.
+`Team | RoreDevs — Meet the People Behind the Community`
 
-### Contact
+### Projects (`/projects`)
 
-Have a software idea? Contact RoreDevs to discuss custom web applications, educational platforms, and digital product development.
+`Projects | RoreDevs — Acadex, Seemul & More`
 
-### Acadex
+### Contact (`/contact`)
 
-Acadex is an academic management system for attendance tracking, student dashboards, lecture materials, and assignment management.
+`Contact RoreDevs | Work With Us or Support the Community`
 
-### Seemul
+## Active Meta Descriptions (Implemented)
 
-Seemul is a peer-to-peer learning platform designed to connect people who want to learn, teach, and share valuable skills.
+### Home (`/`)
 
-## Page Titles
+`RoreDevs is a community of student developers building open source, high-impact web software and empowering the next generation of tech talent.`
 
-### Home
+### About (`/about`)
 
-Custom Web Application Development | RoreDevs
+`Learn about RoreDevs, our mission to build open source projects, foster developer talent, and create impactful software together.`
 
-### About
+### Team (`/team`)
 
-About RoreDevs | Software Development Team
+`Meet the student developers, designers, and contributors behind RoreDevs working together on open source digital products.`
 
-### Projects
+### Projects (`/projects`)
 
-Web Application Projects | RoreDevs
+`Explore open-source software built by RoreDevs student developers, including Acadex (academic management) and Seemul (peer-learning platform).`
 
-### Contact
+### Contact (`/contact`)
 
-Hire Web Application Developers | RoreDevs
-
-### Acadex Project
-
-Acadex | Academic Management System
-
-### Seemul Project
-
-Seemul | Peer-to-Peer Learning Platform
+`Get in touch with RoreDevs to collaborate on open source software, sponsor our student developers, or join our community.`
 
 ## Content Improvements
 
 ### Home Page
 
-**Main goal:** Clearly explain what RoreDevs does.
+**Main goal:** Clearly present RoreDevs' mission as a student developer community.
 
-**Content to include:**
-
-- RoreDevs builds custom web applications and digital products.
-- We develop educational platforms and peer-learning tools.
-- We work on our own products and build solutions for clients.
-- Our team handles frontend development, backend development, and product design.
-- Visitors can explore our projects or contact us about their ideas.
-
-**Suggested homepage message:**
-
-RoreDevs is a software development team that builds custom web applications, educational platforms, and digital products for startups, schools, and organizations.
+- Highlight open-source projects, community impact, and featured applications.
+- Direct visitors to explore projects, meet the team, or get involved.
 
 ### About Page
 
-**Main goal:** Explain the team’s experience and development approach.
+**Main goal:** Share the vision, history, and collaborative principles of RoreDevs.
 
-**Content to include:**
+- Detail our workflow: learning by doing, peer code reviews, and open collaboration.
 
-- RoreDevs is a product studio and software development agency.
-- The team combines frontend, backend, design, and documentation skills.
-- We build practical products that solve real-world problems.
-- We work through planning, design, development, testing, documentation, and deployment.
+### Team Page
+
+**Main goal:** Showcase team members, roles, and open-source contributions.
 
 ### Projects Page
 
-**Main goal:** Show evidence of our capabilities.
-
-**Content to include:**
-
-- Acadex is an academic management system.
-- Acadex includes attendance tracking, student dashboards, lecture materials, and assignment management.
-- Seemul is a peer-to-peer learning platform.
-- These projects demonstrate our ability to build educational and community-focused web applications.
+**Main goal:** Demonstrate technical execution through flagship projects (Acadex, Seemul).
 
 ### Contact Page
 
-**Main goal:** Encourage potential clients to get in touch.
-
-**Content to include:**
-
-- Invite visitors to discuss a software idea.
-- Mention custom web applications, educational platforms, and digital products.
-- Explain that RoreDevs works with startups, schools, organizations, and entrepreneurs.
-- Add a clear call to action such as “Discuss your project with us.”
+**Main goal:** Provide clear communication channels for community membership, project sponsorship, and partnerships.
 
 ## Technical SEO Checklist
 
 ### Page Metadata
 
-- [ ] Add one unique page title to every route.
-- [ ] Add one unique meta description to every route.
-- [ ] Use the page's main keyword naturally in its title and description.
-- [ ] Make sure every page has one clear H1 heading.
-- [ ] Use H2 headings to organize major sections.
-- [ ] Keep titles descriptive and avoid repeating the same title across pages.
+- [x] Add one unique page title to every route.
+- [x] Add one unique meta description to every route.
+- [x] Use the page's main keyword naturally in its title and description.
+- [x] Make sure every page has one clear H1 heading.
+- [x] Use H2 headings to organize major sections.
+- [x] Keep titles descriptive and avoid repeating the same title across pages.
 
 ### Content and Accessibility
 
-- [ ] Make sure important content is visible as text, not only inside images.
-- [ ] Add descriptive alt text to meaningful images.
-- [ ] Use empty alt text for decorative images.
-- [ ] Use descriptive link text such as “View our projects” instead of “Click here.”
-- [ ] Check that every page provides useful information matching its title.
-- [ ] Avoid repeating keywords unnaturally.
+- [x] Make sure important content is visible as text, not only inside images.
+- [x] Add descriptive alt text to meaningful images.
+- [x] Use empty alt text for decorative images.
+- [x] Use descriptive link text such as “View our projects” instead of “Click here.”
+- [x] Check that every page provides useful information matching its title.
+- [x] Avoid repeating keywords unnaturally.
 
 ### Internal Linking
 
-- [ ] Link the Home page to Projects and Contact.
-- [ ] Link the Projects page to the relevant product details or live product URLs.
-- [ ] Link the About page to Projects and Contact.
-- [ ] Link important project descriptions to related services.
-- [ ] Make sure every important page can be reached through the navigation or another internal link.
+- [x] Link the Home page to Projects and Contact.
+- [x] Link the Projects page to the relevant product details or live product URLs.
+- [x] Link the About page to Projects and Contact.
+- [x] Link important project descriptions to related services/routes.
+- [x] Make sure every important page can be reached through the navigation or another internal link.
 
 ### Technical Files and Indexing
 
-- [ ] Create and publish a sitemap containing the public routes.
-- [ ] Create a robots.txt file that allows search engines to crawl public pages.
-- [ ] Submit the sitemap in Google Search Console.
-- [ ] Verify that the deployed website uses HTTPS.
-- [ ] Check that every public route loads successfully when opened directly.
-- [ ] Check for broken links and missing pages.
-- [ ] Confirm that the production domain is the preferred canonical domain.
+- [x] Create and publish a sitemap containing the public routes (`https://roredevs.tech/sitemap.xml`).
+- [x] Create a robots.txt file that allows search engines to crawl public pages (`https://roredevs.tech/robots.txt`).
+- [x] Submit the sitemap in Google Search Console.
+- [x] Verify that the deployed website uses HTTPS (`https://roredevs.tech`).
+- [x] Check that every public route loads successfully when opened directly (Vercel rewrite rule active).
+- [x] Check for broken links and missing pages.
+- [x] Confirm that the production domain is the preferred canonical domain.
 
 ### Performance and Mobile Experience
 
-- [ ] Test every page on a phone and desktop screen.
-- [ ] Compress large images before uploading them.
-- [ ] Use appropriately sized image files.
-- [ ] Check that text, buttons, and navigation do not overlap on small screens.
+- [x] Test every page on a phone and desktop screen.
+- [x] Compress large images before uploading them.
+- [x] Use appropriately sized image files.
+- [x] Check that text, buttons, and navigation do not overlap on small screens.
 - [ ] Test loading speed with PageSpeed Insights or Lighthouse.
 - [ ] Fix serious performance issues before promoting the website.
 
 ### Structured Data
 
-- [ ] Add Organization information when the company details are finalized.
+- [x] Add Organization information JSON-LD in `index.html` (name, url, logo, email, sameAs).
 - [ ] Add WebSite information for the main website.
 - [ ] Add SoftwareApplication information only where it accurately describes Acadex or another product.
-- [ ] Make sure structured data matches information visible on the page.
+- [x] Make sure structured data matches information visible on the page.
 - [ ] Validate structured data with Google's Rich Results Test.
 
 ## Launch Checklist
 
-- [ ] Confirm the final business name, email address, and social links.
-- [ ] Confirm the target customers and services are accurate.
-- [ ] Review every page title and meta description for clarity.
-- [ ] Check spelling, grammar, and keyword usage.
-- [ ] Test all navigation links and contact links.
-- [ ] Test the contact form and confirm messages are actually delivered.
-- [ ] Build the production website successfully.
-- [ ] Deploy the website to the final domain.
-- [ ] Verify the domain in Google Search Console.
-- [ ] Submit the sitemap after deployment.
+- [x] Confirm the final business name (`RoreDevs`), email address (`hello@roredevs.tech`), and social links.
+- [x] Confirm the target community mission and open-source projects are accurate.
+- [x] Review every page title and meta description for clarity.
+- [x] Check spelling, grammar, and keyword usage.
+- [x] Test all navigation links and contact links.
+- [x] Test the contact form and confirm messages are actually delivered.
+- [x] Build the production website successfully.
+- [x] Deploy the website to the final domain (`https://roredevs.tech`).
+- [x] Verify the domain in Google Search Console (via HTML meta tag).
+- [x] Submit the sitemap after deployment (`sitemap.xml`).
 
 ## Measurement Plan
 
-Track these metrics after launch:
+Track these metrics after launch in Google Search Console & Web Analytics:
 
 - Organic visits
 - Search impressions
 - Search clicks
-- Click-through rate
+- Click-through rate (CTR)
 - Average search position
-- Contact form submissions
-- Email enquiries
+- Contact form submissions & email enquiries
 - Most visited pages
-- Search queries that bring visitors to the website
+- Top search queries bringing traffic to `roredevs.tech`
 
-Review the results monthly. Improve pages that receive impressions but few clicks by testing clearer titles and meta descriptions. Improve pages that receive visits but no enquiries by making the service description and call to action clearer.
+Review results monthly. Improve pages that receive impressions but few clicks by testing clearer titles and meta descriptions.
 
 ## Current Website Routes
 
-The website currently has these public routes:
+| Route | Page | Canonical URL | Active Title |
+| --- | --- | --- | --- |
+| `/` | Home | `https://roredevs.tech/` | RoreDevs \| Student Developers Building in the Open |
+| `/about` | About | `https://roredevs.tech/about` | About RoreDevs \| Student Software Development Community |
+| `/team` | Team | `https://roredevs.tech/team` | Team \| RoreDevs — Meet the People Behind the Community |
+| `/projects` | Projects | `https://roredevs.tech/projects` | Projects \| RoreDevs — Acadex, Seemul & More |
+| `/contact` | Contact | `https://roredevs.tech/contact` | Contact RoreDevs \| Work With Us or Support the Community |
 
-| Route       | Page     | SEO focus                            |
-| ----------- | -------- | ------------------------------------ |
-| `/`         | Home     | Custom web application development   |
-| `/about`    | About    | Software development team            |
-| `/team`     | Team     | RoreDevs developers and product team |
-| `/projects` | Projects | Web application projects             |
-| `/contact`  | Contact  | Hire web application developers      |
+Acadex and Seemul are currently featured sections within the Projects page. Their SEO descriptions support the Projects route until dedicated product routes are introduced.
 
-Acadex and Seemul are currently sections within the Projects page, not separate routes. Their SEO descriptions should therefore support the Projects page unless dedicated project pages are created later.
+## SEO Status & Roadmap
 
-## SEO Priorities
+1. [x] **Brand & Strategy Alignment**: Transition from NovuTech to RoreDevs student community model.
+2. [x] **Metadata Implementation**: Per-route titles, descriptions, and Open Graph / Twitter tags added.
+3. [x] **Technical Crawl Files**: `robots.txt` and `sitemap.xml` configured for `https://roredevs.tech/`.
+4. [x] **Webmaster Verification**: Google Search Console verification tag embedded in `index.html`.
+5. [x] **Structured Data**: Organization JSON-LD implemented with logo and social profiles.
+6. [x] **Deployment & Sitemap Submission**: Site live on `https://roredevs.tech/` and `sitemap.xml` submitted.
+7. [ ] **Ongoing Monitoring**: Track indexing status in Search Console (allow 24-48h post-submission) and audit loading performance via Lighthouse.
 
-Complete the work in this order:
-
-1. Confirm the services and target customers.
-2. Add page titles and meta descriptions.
-3. Improve the visible content on Home, About, Projects, and Contact.
-4. Check headings, links, alt text, and mobile layout.
-5. Add sitemap and robots.txt files.
-6. Deploy the website and connect Google Search Console.
-7. Measure results and update content monthly.
